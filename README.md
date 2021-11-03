@@ -2,4 +2,4 @@
 
 Movies.sql file Created with Mockaroo\
 Transformed into CTmovie.db\
-We use python to work with the database
+We use python to work with the SQLite database
